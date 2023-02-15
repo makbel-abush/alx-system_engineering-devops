@@ -1,1 +1,1 @@
-Betty in my first directory
+0x02-shell_redirections
